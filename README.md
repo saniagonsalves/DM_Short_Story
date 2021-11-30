@@ -18,7 +18,7 @@ https://medium.com/@sanialinus.gonsalves/opinion-mining-and-sentiment-analysis-s
 https://drive.google.com/file/d/1YtDKKYM2E9Prlq8OvFOjfkPIQUTYUUMb/view?usp=sharing
 
 
-#### Opinion Mining and Sentiment Analysis on a Twitter Data Stream
+### Opinion Mining and Sentiment Analysis on a Twitter Data Stream
 Opinion mining and sentiment analysis is a fast growing topic with various world applications, from polls to advertisement placement. Traditionally individuals gather feedback from their friends or relatives before purchasing an item, but today the trend is to identify the opinions of a variety of individuals around the globe using microblogging data. 
 Here we discusses an approach where a publicised stream of tweets from the Twitter microblogging site are preprocessed and classified based on their emotional content as positive, negative and irrelevant; and analyses the performance of various classifying algorithms based on their precision and recall in such cases. 
 
