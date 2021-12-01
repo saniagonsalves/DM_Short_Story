@@ -14,6 +14,9 @@ https://docs.google.com/presentation/d/1DtMJ2gaHGP858bg2rwsFGrzQtNCCz_01/edit?us
 ### Medium Article:
 https://medium.com/@sanialinus.gonsalves/opinion-mining-and-sentiment-analysis-sentiment-classification-dcbe465d1d72
 
+###C Colab link:
+https://drive.google.com/file/d/1BUKIcR_RNcNEsFBjJbb_zy_VKgFQq6_u/view?usp=sharing
+
 ### Paper link: 
 https://drive.google.com/file/d/1YtDKKYM2E9Prlq8OvFOjfkPIQUTYUUMb/view?usp=sharing
 
